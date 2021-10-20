@@ -56,14 +56,3 @@ describe('Taiko Demo with Jest', () => {
         await closeBrowser();
     });
 });
-
-`
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    TAIKO TEST
-  </body>
-</html>
-`
